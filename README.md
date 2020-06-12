@@ -9,7 +9,7 @@ Collaborative filtering is based on the assumption that people who agreed in the
 In this project, I will be implementing Collaborative filtering, both user based and item based using the following approaches:
 - Memory Based
 - Model Based
--Matrix Factorisation
+- Matrix Factorisation
    
 ## Working on this project
 
